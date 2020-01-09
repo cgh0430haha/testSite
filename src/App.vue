@@ -4,7 +4,7 @@
     <img src="./assets/logo.png" />
     <router-view />
     <!-- <md-autocomplete
-      v-model="customer"
+      v-model="customer"ss
       :md-options="customers"
       @md-changed="getCustomers"
       @md-opened="getCustomers"
