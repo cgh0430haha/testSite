@@ -7,7 +7,7 @@
       v-model="customer"ss
       :md-options="customers"
       @md-changed="getCustomers"
-      @md-opened="getCustomers"
+      @md-opened="getCustomers"  ?
       @md-selected="getSelected"
     >
       <label>Customers</label>
